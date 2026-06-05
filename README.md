@@ -74,8 +74,12 @@
 
 ## Blocks của Screen2
 
+<img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/013fb7d0-755b-4c60-8ce2-7d8c61efff22" />
+<img width="1920" height="1022" alt="image" src="https://github.com/user-attachments/assets/c01deb4c-b79d-44d9-b38a-264dabffcfc0" />
+<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/8917053d-be70-4db9-abb9-3f67b2f6433f" />
 
-
+## Blocks của Screen3
+<img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/62d4aafa-be1f-43be-8a59-335d8d1c3b81" />
 
 
 
