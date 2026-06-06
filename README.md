@@ -1,4 +1,4 @@
-# PHAT_TRIEN_UD_DI_DONG
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4134ccd-0d5e-4b54-8463-9c5157435c0d" /># PHAT_TRIEN_UD_DI_DONG
 # VŨ ĐỨC TÚ 
 # K225480106068
 
@@ -149,6 +149,11 @@
 ### <activity android:name=".MathActivity" />
 ### <activity android:name=".WebViewActivity" />
 
+# Kết nối với đt oppo 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12af7f98-42ba-44e9-901d-107a871bf93c" />
+
+# build để chạy 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a29bbc4c-9f27-4a07-a5e3-d72ef9f2b68b" />
 
 
 
