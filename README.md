@@ -129,6 +129,7 @@
 ## Sửa AssetsActivity.java
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f17d4e4-e844-44e5-b37a-097fcfd9743a" />
 
+# Tạo app2
 # MathActivity giải toán + gọi API
 
 ## Sửa activity_math.xml
