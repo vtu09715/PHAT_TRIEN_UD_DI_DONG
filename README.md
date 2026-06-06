@@ -96,22 +96,58 @@
 ## Kết quả hiện thị website có sẵn 
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0f9fe5a7-099f-4a1c-a89d-2514cb0bb77e" />
 
+# 2. Viết app sử dụng Android Studio
+## Mở androi studio 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30585b81-9777-4b1c-ba91-1003ab47ce97" />
 
+## Sửa AndroidManifest.xml
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a37ce55-5bd4-4705-991e-65b2d2225f2d" />
 
+## Sửa strings.xml
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4521328e-b288-4833-b85e-d1e44cf317f1" />
 
+## Sửa activity_main.xml
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/619fae55-31a9-47fb-84c3-b7b7bd85c336" />
 
+## Tạo 3 Activity mới AssetsActivity, MathActivity, WebViewActivity
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b147eea-baaf-4ce2-bbd0-f80b60175b0a" />
+<img width="1903" height="1067" alt="image" src="https://github.com/user-attachments/assets/beecb9a3-3e91-4e4b-91ea-84b280b01a24" />
+## Sửa MainActivity.java
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba3ef80f-ec67-4ab6-8f12-ca30e72dd171" />
 
+## Tạo thư mục Assets
+<img width="1867" height="656" alt="image" src="https://github.com/user-attachments/assets/acc4a9d2-e478-4631-9ca1-8837b394d8fd" />
+## Tạo file dữ liệu trong Assets
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5241f7da-b127-485b-85ff-99c2a462a6be" />
 
+## Sửa activity_assets.xml
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/390700de-a870-475e-8250-df0596740ca3" />
 
+## Sửa AssetsActivity.java
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f17d4e4-e844-44e5-b37a-097fcfd9743a" />
 
+# MathActivity giải toán + gọi API
 
+## Sửa activity_math.xml
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/51e5cc00-d39a-43b6-9af8-80fe5328d675" />
 
+## Sửa MathActivity.java
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2207b6e8-9ab6-447b-87d7-f3dbbd06ffae" />
+## Sửa activity_web_view.xml
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2e88ebe-c6ff-4a09-8151-51917936f1c5" />
+## Sửa WebViewActivity.java
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/00b8e14d-b2bb-4ad8-84a0-93e36f49e0f4" />
 
+# Kiểm tra AndroidManifest.xml
+## Mở Manifest kiểm tra có đủ:
 
+### <uses-permission android:name="android.permission.INTERNET" />
 
+## và 3 Activity:
 
-
-
+### <activity android:name=".AssetsActivity" />
+### <activity android:name=".MathActivity" />
+### <activity android:name=".WebViewActivity" />
 
 
 
