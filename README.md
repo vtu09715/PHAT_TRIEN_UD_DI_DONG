@@ -81,6 +81,23 @@
 ## Blocks của Screen3
 <img width="1920" height="1033" alt="image" src="https://github.com/user-attachments/assets/62d4aafa-be1f-43be-8a59-335d8d1c3b81" />
 
+# Kết nối với điện thoại 
+<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/12f1c405-3442-482a-9403-307b13f1bc56" />
+## lỗi với tên miền https://k58kmt.tdh.io.vn
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2994eee8-4f6f-4eba-818a-296d2646a220" />
+## sửa lại miền 
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/3a4facda-e66b-4cfd-b67d-c4a42da4546a" />
+<img width="1920" height="1024" alt="image" src="https://github.com/user-attachments/assets/ab869af3-af44-4e8e-9e0b-86fd90d87e94" />
+# Kết quả app giải bài toán và thông tin cá nhân 
+## Kết quả hiển thị thông tin cá nhân 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/da09a54c-c595-43f1-9968-ae8baa50282a" />
+## Kết quả chương trình giải toán đơn giản 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/de3912e2-a4f8-4b29-b396-da7ab9905520" />
+## Kết quả hiện thị website có sẵn 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0f9fe5a7-099f-4a1c-a89d-2514cb0bb77e" />
+
+
+
 
 
 
