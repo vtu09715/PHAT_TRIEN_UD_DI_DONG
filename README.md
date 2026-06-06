@@ -152,9 +152,14 @@
 # Kết nối với đt oppo 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12af7f98-42ba-44e9-901d-107a871bf93c" />
 
-# build để chạy 
+## build để chạy 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a29bbc4c-9f27-4a07-a5e3-d72ef9f2b68b" />
+## build thành công 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10514cdc-a450-4582-90e8-f6d69319ded1" />
 
+## Chạy app lên điện thoại 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcae4f24-9a19-4cc2-ab0e-d856a0269f68" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55e7b1db-3b9b-4b37-8f6f-87b303ff7b87" />
 
 
 
