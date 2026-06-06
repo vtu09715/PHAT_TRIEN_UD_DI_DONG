@@ -115,7 +115,10 @@
 ## Sửa MainActivity.java
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba3ef80f-ec67-4ab6-8f12-ca30e72dd171" />
 
+# Tạo app1 
+
 ## Tạo thư mục Assets
+
 <img width="1867" height="656" alt="image" src="https://github.com/user-attachments/assets/acc4a9d2-e478-4631-9ca1-8837b394d8fd" />
 ## Tạo file dữ liệu trong Assets
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5241f7da-b127-485b-85ff-99c2a462a6be" />
