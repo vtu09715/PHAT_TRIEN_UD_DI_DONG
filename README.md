@@ -165,6 +165,20 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcae4f24-9a19-4cc2-ab0e-d856a0269f68" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/55e7b1db-3b9b-4b37-8f6f-87b303ff7b87" />
 
+# Kết quả trên app điện thoại 
+## Giao diện chính app
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/28216627-da6e-4945-ab9b-68623fb2a8ea" />
+## app1 Sơ cứu cơ bản 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/dbb266b1-e59f-4c58-a28a-d4758ec2489d" />
+## activity2: Giải phương trình cơ bản 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2fe761b8-5cb1-43eb-9727-dca0b4dfd0ac" />
+## Gửi bài toán lên api https://k58kmt.tdh.io.vn/api
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/1bdea749-abaa-40c1-aecc-f2d9a31d83c3" />
+
+## activity3: dùng web-view để truy cập từ 1 trang web https://k58kmt.tdh.io.vn?masv=mã
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/107df0e9-ad53-4b01-a415-157232d0d64e" />
+
+<img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/f02ae57b-5441-4dba-a99e-4382e5f3a3ec" />
 
 
 
