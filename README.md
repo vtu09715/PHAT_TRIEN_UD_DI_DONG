@@ -237,7 +237,7 @@
 
 ## activity2: Giải phương trình cơ bản 
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/2fe761b8-5cb1-43eb-9727-dca0b4dfd0ac" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/7a1e050d-486f-40bd-be5b-ec0de2395276" />
 
 ## Gửi bài toán lên api https://k58kmt.tdh.io.vn/api
 
